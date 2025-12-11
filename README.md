@@ -2,7 +2,7 @@
 
 **`Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Luiz Jardel do Nascimento, tenho 19 anos e sou natural do Ceará. Concluí o ensino médio no Dom Felipe, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. Gosto muito de Programação e compartilho meu  conhecimento através do meu canal no YouTube "[Dev Jardel](https://www.youtube.com/@devjardel13)", e gosto de postar sobre o dia a dia também através do Instagram, com o perfil chamado "[dev.jardel](https://www.instagram.com/dev.jardel/)".
+Me chamo Luiz Jardel do Nascimento, tenho 19 anos e sou natural do Ceará. Concluí o ensino médio no Dom Felipe, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. Gosto muito de Programação e compartilho meu  conhecimento através do meu canal no YouTube "[Dev Jardel13](https://www.youtube.com/@devjardel13)", e gosto de postar sobre o dia a dia também através do Instagram, com o perfil chamado "[dev.jardel](https://www.instagram.com/dev.jardel/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@devjardel13">
