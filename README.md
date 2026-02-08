@@ -3,6 +3,8 @@
 **`Desenvolvedor Backend`**
 
 Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio no Colégio Dom Felipe,  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. "[Perfil do Instagram](https://www.instagram.com/dev.jardel/)".
+tenho foco em **Backend**, gosto de aprender na prática e estou sempre buscando evoluir em lógica, boas práticas e programação.
+
 
 <p align="left">
     <a href="https://www.youtube.com/@devjardel13?sub_confirmation=1">
